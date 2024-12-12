@@ -1,0 +1,2 @@
+acl ingress:xe1 egress:xe3-5 action:copy
+acl ingress:xe2 egress:xe3-5 action:copy
